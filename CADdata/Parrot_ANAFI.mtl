@@ -1,0 +1,17 @@
+newmtl prop_0
+Kd 0.101961 0.101961 0.101961
+
+newmtl glas_0
+Kd 0.905882 0.905882 0.905882
+
+newmtl gimbal-black_0
+Kd 0.000000 0.000000 0.000000
+
+newmtl body-grey_0
+Kd 0.211765 0.258824 0.290196
+
+newmtl material_0
+Kd 0.172549 0.458824 0.000000
+
+newmtl gimbal-weiss_0
+Kd 1.000000 1.000000 1.000000
